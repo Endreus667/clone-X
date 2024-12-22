@@ -1,11 +1,11 @@
 import { User } from "@/types/user";
 
 export const user: User = {
-    slug: 'bonieky',
-    name: 'Bonieky Lacerda',
-    avatar: 'https://ui-avatars.com/api/?background=random&name=Bonieky&size=100',
+    slug: 'User',
+    name: 'User example',
+    avatar: 'https://i.im.ge/2024/12/22/zxGxIx.Natsuki-Subaru-1.jpeg',
     cover: 'https://img.freepik.com/fotos-gratis/conceito-de-viagem-completo-com-pontos-de-referencia_23-2149153258.jpg',
-    bio: 'Desenvolvedor sênior há mais de 14 anos.',
-    link: 'https://b7web.com.br',
-    postCount: 127
+    bio: 'Desenvolvedor de software.',
+    link: 'https://www.instagram.com/end_ksan/',
+    postCount: 140
 }

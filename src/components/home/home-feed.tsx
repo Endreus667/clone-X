@@ -1,5 +1,6 @@
-import { tweet } from "@/data/tweet";
+
 import { TweetItem } from "../tweet/tweet-item";
+import { tweet } from '@/data/Tweet';
 
 export const HomeFeed = () => {
     return (
